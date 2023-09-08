@@ -200,6 +200,7 @@
 .linkCont {
   text-decoration: none;
   color: #00E5FF;
+  background: none;
 }
 
 .linkCont:hover {
