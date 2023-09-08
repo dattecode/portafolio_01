@@ -46,9 +46,11 @@
 
 .pa1 {
   animation: slide-in-top 2s ease both;
+  background: none;
 }
 .pa2 {
   animation: slide-in-top 3s ease both;
+  background: none;
 }
 
 .homeBtn {
