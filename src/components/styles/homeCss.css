@@ -327,6 +327,6 @@ img {
 
 @media (min-width: 768px) {
   .containerHome {
-    min-height: 180rem;
+    min-height: 179rem;
   }
 }
